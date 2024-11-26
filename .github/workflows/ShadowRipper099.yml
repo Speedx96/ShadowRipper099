@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       code:
-        description: Paste Powershell Code
+        description: Paste Powershell Code 1
         required: true
 
 jobs:
